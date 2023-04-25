@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bk{
+    color: aliceblue;
+    text-align: left;
+    height: 200px;
+    width: 300%;
+    background-color: darkblue;
+}

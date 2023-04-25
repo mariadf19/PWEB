@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#tm{
+    font-size: 40px;
+    text-align: center;
+}
+#ti{
+    font-size: 50px;
+    margin-left: 400px;
+}
+#p{
+    margin-left: 400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#tc{
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    background-color: blue;
+}
